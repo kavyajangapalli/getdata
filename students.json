@@ -1,0 +1,20 @@
+[
+  {
+  "Name":"kavya",
+  "Department":"computer science",
+  "ID":"575",
+  "Percentage":"70"
+  },
+  {
+  "Name":"shirisha",
+  "Department":"computer science",
+  "ID":"576",
+  "Percentage":"71"
+  },
+  {
+  "Name":"prasanna",
+  "Department":"computer science",
+  "ID":"577",
+  "Percentage":"72"
+  }
+]
